@@ -6,9 +6,11 @@ I really am just fascinated by computers and coding. I am always keen to meet ne
 My GitHub is sparse right now but I hope to change that soon!
 
 Location: 
+
   Glasgow, Scotland
 
 Skills: 
+
   Python/SQL/C/Asssembly(limited)/Analogue Design/Cadence ORCAD/PSpice/PCB Design
 
 
