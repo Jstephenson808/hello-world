@@ -9,6 +9,6 @@ Location:
   Glasgow, Scotland
 
 Skills: 
-  Python/SQL/C/Asssembly(limited)
+  Python/SQL/C/Asssembly(limited)/Analogue Design/Cadence ORCAD/PSpice/PCB Design
 
 
